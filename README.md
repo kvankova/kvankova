@@ -2,7 +2,8 @@
 
 - ☕ I am Katerina and I work as an ML Engineer in Vacasa
 - 🚀 My focus is mainly MLOps and DevOps  
-- 📷 Fun fact: I love taking [photographs](https://www.vogue.com/photovogue/photographers/76062) with my Minolta XE-1
+- 📷 I love taking [photographs](https://www.vogue.com/photovogue/photographers/76062) with my Minolta XE-1
+- 😻 I have two lovely cats Mici and Muci
 
 
 [![Katerina Vankova's GitHub stats](https://github-readme-stats.vercel.app/api?username=kvankova)](https://github.com/anuraghazra/github-readme-stats)
