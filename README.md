@@ -9,24 +9,24 @@
 <a href="https://github.com/kvankova" style="text-decoration: none;">
     <picture>
         <source
-            srcset="https://github-readme-stats-jd-blush.vercel.app/api?username=kvankova&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&count_private=true&card_width=270"
+            srcset="https://github-readme-stats-jd-blush.vercel.app/api?username=kvankova&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&count_private=true&card_width=260"
             media="(prefers-color-scheme: dark)"
         />
         <source
-            srcset="https://github-readme-stats-jd-blush.vercel.app/api?username=kvankova&show_icons=true&title_color=000&hide_border=true&count_private=true&card_width=270"
+            srcset="https://github-readme-stats-jd-blush.vercel.app/api?username=kvankova&show_icons=true&title_color=000&hide_border=true&count_private=true&card_width=260"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img height=190 align="center" src="https://github-readme-stats-jd-blush.vercel.app/api?username=kvankova&show_icons=true&title_color=000&hide_border=true&count_private=true&card_width=270" />
+        <img height=190 align="center" src="https://github-readme-stats-jd-blush.vercel.app/api?username=kvankova&show_icons=true&title_color=000&hide_border=true&count_private=true&card_width=260" />
     </picture>
     <picture>
         <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs?username=kvankova&hide=jupyter%20notebook&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&langs_count=8&card_width=270"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs?username=kvankova&hide=jupyter%20notebook&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&langs_count=8&card_width=260"
             media="(prefers-color-scheme: dark)"
         />
         <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs?username=kvankova&hide=jupyter%20notebook&layout=compact&title_color=000&hide_border=true&langs_count=8&card_width=270"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs?username=kvankova&hide=jupyter%20notebook&layout=compact&title_color=000&hide_border=true&langs_count=8&card_width=260"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img height=190 align="center" src="https://github-readme-stats.app/api/top-langs?username=kvankova&hide=jupyter%20notebook&layout=compact&title_color=000&hide_border=true&langs_count=8&card_width=270" />
+        <img height=190 align="center" src="https://github-readme-stats.app/api/top-langs?username=kvankova&hide=jupyter%20notebook&layout=compact&title_color=000&hide_border=true&langs_count=8&card_width=260" />
     </picture>
 </a>
