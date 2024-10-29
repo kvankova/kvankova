@@ -6,4 +6,6 @@
 - 😻 I have two lovely cats Mici and Muci
 
 
-[![Katerina Vankova's GitHub stats](https://github-readme-stats.vercel.app/api?username=kvankova)](https://github.com/anuraghazra/github-readme-stats)
+[![Katerina Vankova's GitHub stats](https://github-readme-stats.vercel.app/api?username=kvankova&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvankova&layout=compact&exclude_repo=Made-With-ML,kv_thesis,Data-Analysis)
