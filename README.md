@@ -6,8 +6,27 @@
 - 😻 I have two lovely cats Mici and Muci
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=kvankova&show_icons=true&rank_icon=default" alt="Katerina Vankova's GitHub stats" height="140">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvankova&layout=compact&exclude_repo=Made-With-ML,kv_thesis,Data-Analysis" alt="Top Langs" height="140">
+<a href="https://github.com/kvankova" style="text-decoration: none;">
+    <picture>
+        <source
+            srcset="https://github-readme-stats-jd-blush.vercel.app/api?username=kvankova&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&count_private=true&card_width=280"
+            media="(prefers-color-scheme: dark)"
+        />
+        <source
+            srcset="https://github-readme-stats-jd-blush.vercel.app/api?username=kvankova&show_icons=true&title_color=000&hide_border=true&count_private=true&card_width=280"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img height=190 align="center" src="https://github-readme-stats-jd-blush.vercel.app/api?username=kvankova&show_icons=true&title_color=000&hide_border=true&count_private=true&card_width=280" />
+    </picture>
+    <picture>
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/top-langs?username=kvankova&hide=jupyter%20notebook&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&langs_count=8&card_width=280"
+            media="(prefers-color-scheme: dark)"
+        />
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/top-langs?username=kvankova&hide=jupyter%20notebook&layout=compact&title_color=000&hide_border=true&langs_count=8&card_width=280"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img height=190 align="center" src="https://github-readme-stats.app/api/top-langs?username=kvankova&hide=jupyter%20notebook&layout=compact&title_color=000&hide_border=true&langs_count=8&card_width=280" />
+    </picture>
 </a>
