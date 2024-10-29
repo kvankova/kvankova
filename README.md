@@ -7,7 +7,7 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=kvankova&show_icons=true&rank_icon=default" alt="Katerina Vankova's GitHub stats" height="150">
+    <img src="https://github-readme-stats.vercel.app/api?username=kvankova&show_icons=true&rank_icon=default" alt="Katerina Vankova's GitHub stats" height="140">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvankova&layout=compact&exclude_repo=Made-With-ML,kv_thesis,Data-Analysis" alt="Top Langs" height="150">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvankova&layout=compact&exclude_repo=Made-With-ML,kv_thesis,Data-Analysis" alt="Top Langs" height="140">
 </a>
