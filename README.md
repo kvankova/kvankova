@@ -24,7 +24,7 @@
             media="(prefers-color-scheme: dark)"
         />
         <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs?username=kvankova&hide=jupyter%20notebook&layout=compact&title_color=000&hide_border=true&langs_count=8&card_width=250"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs?username=kvankova&layout=compact&title_color=000&hide_border=true&langs_count=8&card_width=250&hide=jupyter%20notebook"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
         <img height=180 align="center" src="https://github-readme-stats.app/api/top-langs?username=kvankova&hide=jupyter%20notebook&layout=compact&title_color=000&hide_border=true&langs_count=8&card_width=250" />
